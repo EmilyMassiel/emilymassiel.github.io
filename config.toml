@@ -1,0 +1,71 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "roxo"
+title = "♡ Emily's blog ♡"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Skills"
+url = "#skills"
+weight = 3
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 5
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About me"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Latest Articles"
+url = "#"
+weight = 2
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "Always remember to be happy🤗"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "Carazo - Nicaragua."
+email = "massielalfaro22@gmail.com"
+openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+phone = "+(505) 8158 2594"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-github-square"
+url = "https://github.com/EmilyMassiel"
+weight = 1
+[[params.social]]
+icon = "fa-instagram"
+url = "https://www.instagram.com/massiel01.0/"
+weight = 2
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/massielalfaro8"
+weight = 3

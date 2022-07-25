@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Opportunities don't happen, you create them.
+
+  My plans are one day to be part of the wonderful community of developers that exists in the world and to be able to contribute, even with just a small grain of sand, to the task of sharing my knowledge with those who need it.
+
+image: images/skill/IMG_20220715_203122_288.webp
+
+skill:
+  - title: English
+    percent: 80
+  - title: HTML
+    percent: 65
+  - title: CSS
+    percent: 50
+  - title: Javascript
+    percent: 20
