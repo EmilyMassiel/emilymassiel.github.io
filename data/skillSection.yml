@@ -10,10 +10,10 @@ image: images/skill/IMG_20220715_203122_288.webp
 
 skill:
   - title: English
-    percent: 80
+    percent: 70
+  - title: Python
+    percent: 45
   - title: HTML
-    percent: 65
-  - title: CSS
     percent: 50
-  - title: Javascript
-    percent: 20
+  - title: CSS
+    percent: 30
