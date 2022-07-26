@@ -1,4 +1,4 @@
-baseURL = "emilymassiel.github.io"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
