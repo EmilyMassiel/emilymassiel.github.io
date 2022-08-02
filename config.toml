@@ -25,36 +25,16 @@ name = "Contact"
 url = "#contact"
 weight = 5
 
-# Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "about"
-weight = 1
-[[menu.sitemap]]
-name = "Latest Articles"
-url = "#"
-weight = 2
-
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "Always remember to be happy🤗"
 footerLogo = "images/favicon.png"
-formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
 
 [params.address]
 address = "Carazo - Nicaragua."
 email = "massielalfaro22@gmail.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+(505) 8158 2594"
-
-[params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
-pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
