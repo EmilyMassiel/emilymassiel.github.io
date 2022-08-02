@@ -1,4 +1,4 @@
-baseURL = "https://emygarcia.com/"
+baseURL = "https://example.org/"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
