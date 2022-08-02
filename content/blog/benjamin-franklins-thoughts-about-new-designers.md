@@ -1,37 +1,15 @@
 ---
-draft: true
-title: "Benjamin Franklins thoughts about new designers"
-date: 2020-07-13T12:49:27+06:00
-featureImage: images/allpost/allPost-7.jpg
-postImage: images/single-blog/feature-image.jpg
-tags: website
+draft: false
+title: "As everything changes over time..."
+date: 2022-08-01T12:49:27+06:00
+featureImage: images/allpost/post1.0.jpg
+postImage: images/single-blog/lewis.jpg
+tags: personal
 categories: blog
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+**When I look back to how life was some years ago, I can’t believe how much things have changed and, most important, what that change means. I have realized that we often see change as something bad, perhaps because it is the traditional way to think about it. Still, change can mean much more than that, you learn about the past, about how things were, and that is what really matters. To develop an awareness of what we are doing to live the life we want to remember someday, to be aware that sometimes we fall for one reason: to rise.**
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+ **Life is unpredictable, and the mystery behind staying alive is something that I cannot get out of my mind. Every night I wonder why I am here, in this world, what is my purpose or what is the purpose of all humanity, and why are we here? And interestingly, those questions are so common for people, and usually we give them a superficial meaning even when we know that they are the key to understanding what we are living for.**
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
-
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
-
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-
-{{< /blogsection >}}
-
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+ **And maybe you think that I’m crazy or that I don’t have something better to do, but it is not the case. I just consider it is important to think, from time to time, about what we are doing and reflect on if we are doing what we really want to do because at the end of our lives, the only thing we’re going to take with us are our memories, the laughs that are in our hearts and the moments that we spent with those who we love.**
